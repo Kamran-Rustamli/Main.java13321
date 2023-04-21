@@ -21,5 +21,8 @@ public class Main {
 
         Calculator divided = (int f, int e) -> a / b;
         System.out.println(divided.calculate(a, b));
+        System.out.println(".....................");
     }
+
+
 }
